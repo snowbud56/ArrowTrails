@@ -1,0 +1,6 @@
+name: ArrowTrails
+version: 1.0
+main: com.snowbud56.ArrowTrails
+author: snowbud56
+commands:
+  trails:
